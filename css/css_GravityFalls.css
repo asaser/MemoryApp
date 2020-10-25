@@ -1,0 +1,44 @@
+ html {
+   cursor: url("../cursor_img/cursor_GravityFalls.cur"), auto;
+ }
+ 
+ /*  Adventure Time cards  */
+
+ #sublLevelButtons .all_card .GF-pic1 {
+   background-image: url("../game_img/img_GravityFalls/GravityFalls-1.jpg");
+ }
+
+ #sublLevelButtons .all_card .GF-pic2 {
+   background-image: url("../game_img/img_GravityFalls/GravityFalls-2.jpg");
+ }
+
+ #sublLevelButtons .all_card .GF-pic3 {
+   background-image: url("../game_img/img_GravityFalls/GravityFalls-3.jpg");
+ }
+
+ #sublLevelButtons .all_card .GF-pic4 {
+   background-image: url("../game_img/img_GravityFalls/GravityFalls-4.jpg");
+ }
+
+ #sublLevelButtons .all_card .GF-pic5 {
+   background-image: url("../game_img/img_GravityFalls/GravityFalls-5.jpg");
+ }
+
+ #sublLevelButtons .all_card .GF-pic6 {
+   background-image: url("../game_img/img_GravityFalls/GravityFalls-6.jpg");
+ }
+
+ #sublLevelButtons .all_card .GF-pic7 {
+   background-image: url("../game_img/img_GravityFalls/GravityFalls-7.jpg");
+ }
+
+ #sublLevelButtons .all_card .GF-pic8 {
+   background-image: url("../game_img/img_GravityFalls/GravityFalls-8.jpg");
+ }
+
+
+
+ /* reverse of all cards */
+ #sublLevelButtons .all_card .card_reverse {
+   background-image: url(../game_img/img_GravityFalls/revers-GravityFalls.jpg);
+ }

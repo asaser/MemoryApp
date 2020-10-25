@@ -1,0 +1,109 @@
+html {
+  cursor: url("../cursor_img/cursor_Pokemon.cur"), auto;
+} 
+ /*  Adventure Time cards  */
+
+ #sublLevelButtons .all_card .P-pic1 {
+   background-image: url("../game_img/img_Pokemon/Pokemon-1.jpg");
+ }
+
+ #sublLevelButtons .all_card .P-pic2 {
+   background-image: url("../game_img/img_Pokemon/Pokemon-2.jpg");
+ }
+
+ #sublLevelButtons .all_card .P-pic3 {
+   background-image: url("../game_img/img_Pokemon/Pokemon-3.jpg");
+ }
+
+ #sublLevelButtons .all_card .P-pic4 {
+   background-image: url("../game_img/img_Pokemon/Pokemon-4.jpg");
+ }
+
+ #sublLevelButtons .all_card .P-pic5 {
+   background-image: url("../game_img/img_Pokemon/Pokemon-5.jpg");
+ }
+
+ #sublLevelButtons .all_card .P-pic6 {
+   background-image: url("../game_img/img_Pokemon/Pokemon-6.jpg");
+ }
+
+ #sublLevelButtons .all_card .P-pic7 {
+   background-image: url("../game_img/img_Pokemon/Pokemon-7.jpg");
+ }
+
+ #sublLevelButtons .all_card .P-pic8 {
+   background-image: url("../game_img/img_Pokemon/Pokemon-8.jpg");
+ }
+
+ #sublLevelButtons .all_card .P-pic9 {
+   background-image: url("../game_img/img_Pokemon/Pokemon-9.jpg");
+ }
+
+ #sublLevelButtons .all_card .P-pic10 {
+   background-image: url("../game_img/img_Pokemon/Pokemon-10.jpg");
+ }
+
+ #sublLevelButtons .all_card .P-pic11 {
+   background-image: url("../game_img/img_Pokemon/Pokemon-11.jpg");
+ }
+
+ #sublLevelButtons .all_card .P-pic12 {
+   background-image: url("../game_img/img_Pokemon/Pokemon-12.jpg");
+ }
+
+ #sublLevelButtons .all_card .P-pic13 {
+   background-image: url("../game_img/img_Pokemon/Pokemon-13.jpg");
+ }
+
+ #sublLevelButtons .all_card .P-pic14 {
+   background-image: url("../game_img/img_Pokemon/Pokemon-14.jpg");
+ }
+
+ #sublLevelButtons .all_card .P-pic15 {
+   background-image: url("../game_img/img_Pokemon/Pokemon-15.jpg");
+ }
+
+ #sublLevelButtons .all_card .P-pic16 {
+   background-image: url("../game_img/img_Pokemon/Pokemon-16.jpg");
+ }
+
+ #sublLevelButtons .all_card .P-pic17 {
+   background-image: url("../game_img/img_Pokemon/Pokemon-17.jpg");
+ }
+
+ #sublLevelButtons .all_card .P-pic18 {
+   background-image: url("../game_img/img_Pokemon/Pokemon-18.jpg");
+ }
+
+ #sublLevelButtons .all_card .P-pic19 {
+   background-image: url("../game_img/img_Pokemon/Pokemon-19.jpg");
+ }
+
+ #sublLevelButtons .all_card .P-pic20 {
+   background-image: url("../game_img/img_Pokemon/Pokemon-20.jpg");
+ }
+
+ #sublLevelButtons .all_card .P-pic21 {
+   background-image: url("../game_img/img_Pokemon/Pokemon-21.jpg");
+ }
+
+ #sublLevelButtons .all_card .P-pic22 {
+   background-image: url("../game_img/img_Pokemon/Pokemon-22.jpg");
+ }
+
+ #sublLevelButtons .all_card .P-pic23 {
+   background-image: url("../game_img/img_Pokemon/Pokemon-23.jpg");
+ }
+
+ #sublLevelButtons .all_card .P-pic24 {
+   background-image: url("../game_img/img_Pokemon/Pokemon-24.jpg");
+ }
+
+ #sublLevelButtons .all_card .P-pic25 {
+   background-image: url("../game_img/img_Pokemon/Pokemon-25.jpg");
+ }
+
+ /* reverse of all cards */
+ #sublLevelButtons .all_card .card_reverse {
+  background-image: url(../game_img/img_Pokemon/reverse-Pokemon.jpg);
+}

@@ -1,0 +1,71 @@
+html {
+  cursor: url("../cursor_img/cursor_AdventureTime.cur"), auto;
+}
+
+/*  Adventure Time cards  */
+
+ #sublLevelButtons .all_card .AT-pic1 {
+   background-image: url("../game_img/img_AdventureTime/AdventureTime-1.jpg");
+ }
+
+ #sublLevelButtons .all_card .AT-pic2 {
+   background-image: url("../game_img/img_AdventureTime/AdventureTime-2.jpg");
+ }
+
+ #sublLevelButtons .all_card .AT-pic3 {
+   background-image: url("../game_img/img_AdventureTime/AdventureTime-3.jpg");
+ }
+
+ #sublLevelButtons .all_card .AT-pic4 {
+   background-image: url("../game_img/img_AdventureTime/AdventureTime-4.jpg");
+ }
+
+ #sublLevelButtons .all_card .AT-pic5 {
+   background-image: url("../game_img/img_AdventureTime/AdventureTime-5.jpg");
+ }
+
+ #sublLevelButtons .all_card .AT-pic6 {
+   background-image: url("../game_img/img_AdventureTime/AdventureTime-6.jpg");
+ }
+
+ #sublLevelButtons .all_card .AT-pic7 {
+   background-image: url("../game_img/img_AdventureTime/AdventureTime-7.jpg");
+ }
+
+ #sublLevelButtons .all_card .AT-pic8 {
+   background-image: url("../game_img/img_AdventureTime/AdventureTime-8.jpg");
+ }
+
+ #sublLevelButtons .all_card .AT-pic9 {
+   background-image: url("../game_img/img_AdventureTime/AdventureTime-9.jpg");
+ }
+
+ #sublLevelButtons .all_card .AT-pic10 {
+   background-image: url("../game_img/img_AdventureTime/AdventureTime-10.jpg");
+ }
+
+ #sublLevelButtons .all_card .AT-pic11 {
+   background-image: url("../game_img/img_AdventureTime/AdventureTime-11.jpg");
+ }
+
+ #sublLevelButtons .all_card .AT-pic12 {
+   background-image: url("../game_img/img_AdventureTime/AdventureTime-12.jpg");
+ }
+
+ #sublLevelButtons .all_card .AT-pic13 {
+   background-image: url("../game_img/img_AdventureTime/AdventureTime-13.jpg");
+ }
+
+ #sublLevelButtons .all_card .AT-pic14 {
+   background-image: url("../game_img/img_AdventureTime/AdventureTime-14.jpg");
+ }
+
+ #sublLevelButtons .all_card .AT-pic15 {
+   background-image: url("../game_img/img_AdventureTime/AdventureTime-15.jpg");
+ }
+
+
+ /* reverse of all cards */
+ #sublLevelButtons .all_card .card_reverse {
+  background-image: url(../game_img/img_AdventureTime/reverse-AdventureTime.jpg);
+ }

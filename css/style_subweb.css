@@ -1,0 +1,33 @@
+html {
+   height: 100vh;
+   box-sizing: border-box;
+}
+
+body {
+  background-color: #830c0cda;
+}
+
+#sub_mainHeader .sub_header_first_text {
+  font-size: 25px;
+}
+
+#sub_mainHeader .sub_text {
+  font-size: 20px;
+}
+
+ /* card layout  */
+ #sublLevelButtons .all_card .card {
+   height: 105px;
+   width: 105px;
+   display: inline-block;
+   margin: 3px 3px 3px;
+   cursor: crosshair;
+ }
+
+ /*  card cursor move  */
+ #sublLevelButtons .all_card .card:hover {
+   border: 3px solid #000000;
+ }
+
+
+
