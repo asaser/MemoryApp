@@ -1,6 +1,6 @@
 # Memory App
 
-## Demo App
+## Program
 
 ## https://asaser.github.io/MemoryApp/
 
